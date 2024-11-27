@@ -1,0 +1,21 @@
+Los contenidos de la semana son:
+
+1. Operaciones básicas con datos y variables.
+1.1. Expresiones aritméticas y lógicas.
+1.2. Tablas de verdad para las expresiones lógicas.
+2. Cadena de caracteres.
+¿Qué esperamos que aprendas?
+Conocer los distintos operadores existentes.
+Aprender a crear y usar variables.
+Realizar operaciones aritméticas.
+Realizar operaciones lógicas.
+Comprender el concepto de diagrama de flujo y su uso.
+¿Qué actividades te proponemos realizar esta semana?
+Leer el material de lectura:
+
+Diagramas de flujos.
+Operaciones básicas con datos y variables.
+Cadenas de caracteres.
+Realizar las prácticas formativas:
+Resolver el cuestionario sobre conceptos.
+Realizar un trabajo práctico que te permite aplicar el concepto de algoritmo y pseudocódigo (SIN ENTREGA)

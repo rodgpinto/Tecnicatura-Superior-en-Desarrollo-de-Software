@@ -1,0 +1,11 @@
+En esta clase  presentamos las distintas operaciones que se pueden realizar con las variables. 
+
+1. Aprendimos que dependiendo el tipo de dato de la variable podemos realizar distintas operaciones.
+
+2. Algunas de ellas serán operaciones algorítmicas con los números, otras operaciones de entrada y salida de datos con variables del tipo cadena u operaciones lógicas para poder comprar más de un valor.
+
+3. A su vez, mostramos la estrategia que se utiliza para la resolución de problemas de baja y mediana complejidad.
+
+4. Se propusieron ejercicios, para desarrollar la capacidad de analizar un problema y encontrar su solución.
+
+5. Por último, presentamos una autoevaluación con la que podés verificar que los conceptos trabajados en esta clase.

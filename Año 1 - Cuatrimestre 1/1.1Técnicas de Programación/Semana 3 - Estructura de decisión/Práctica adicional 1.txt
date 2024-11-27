@@ -1,0 +1,46 @@
+Resolvé los siguientes 5 problemas utilizando “SI condicional”, en la herramienta PSeint. 
+Problema 1:
+Situación. Nos piden un algoritmo para estudiantes de 1er grado (acerca de escala numérica) para que aprendan a comparar números. 
+
+Objetivo. Ingresar dos números enteros distintos por teclado e informar por pantalla cuál es el mayor de ellos.
+
+Problema 2:
+Situación. Ahora nos solicitan ampliar el ejercicio anterior para 3 números. Se le pide al usuario que ingrese por teclado 3 números enteros distintos. 
+
+Objetivo. Informar el mayor por pantalla.
+
+Problema 3
+Situación. Somos convocados para realizar una actividad de matemáticas en línea para que estudiantes aprendan a realizar operaciones básicas. 
+
+Se le solicita al usuario ingresar dos números reales por teclado. 
+
+Objetivo. Mostrar  por pantalla el resultado de:
+Sumar ambos números. 
+Restar ambos números. 
+Multiplicar ambos números.
+Dividir ambos números (tener en cuenta que no se puede dividir por cero; en tal caso, mostrar un mensaje de error).  
+¡Intentalo! 
+
+
+Problema 4
+Situación. La asociación de vinicultores tiene como política fijar un precio inicial al kilo de uva, la cual se clasifica en tipos “A” y “B”, y además en tamaños 1 y 2. Este precio inicial (se le solicita al usuario cuando comienza el programa) no se modifica en ningún momento durante el proceso de venta.  
+
+Cuando se realiza la venta del producto, nos ingresan el peso total de la venta, el tipo y tamaño de la uva, y nos solicitan determinar cuánto dinero recibirá el productor por la uva que entrega en un embarque, considerando lo siguiente:
+
+Si es de tipo “A”, se recarga $2.80 al precio inicial del kilo, cuando es de tamaño 1; y $2.30 si es de tamaño 2.
+Si es de tipo “B”, se rebajan $1.30 al precio inicial del kiloo cuando es de tamaño 1, y $1.50 cuando es de tamaño 2.
+Objetivo. Se pide mostrar por pantalla, en $, la recaudación que recibirá el productor por la uva que entregue.
+
+Problema 5
+Situación. En un negocio de venta de repuestos de heladera tiene por políticas comerciales realizar descuentos dependiendo del monto de venta de la siguiente manera:
+
+Si el monto es menor que $500 no hay descuento.
+Si el monto está comprendido entre $500 y $1000 inclusive, el descuento es de 5%.
+Si el monto está comprendido entre $1001 y $7000 inclusive, el descuento es del 11%.
+Si el monto está comprendido entre $7001 y $15000 inclusive, el descuento es del 18%.
+Si el monto es mayor de $15000 el descuento es del 25%.
+Por ejemplo, si se ingresa una venta de $5000, el descuento será $550, y por lo tanto el valor a pagar será $4450.
+
+(A partir del punto 3 considerar mayor que el valor anterior)
+
+Objetivo. Se ingresa el monto de una venta y nuestro algoritmo debe calcular el descuento y restarlo del total según las reglas y mostrarlo por pantalla.

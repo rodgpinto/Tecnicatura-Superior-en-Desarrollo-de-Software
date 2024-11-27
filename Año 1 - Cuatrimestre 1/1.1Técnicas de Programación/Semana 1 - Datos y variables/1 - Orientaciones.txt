@@ -1,0 +1,46 @@
+Los contenidos de la semana son:
+Algoritmos y programas:
+1.Algoritmos. Punto de partida
+1.1. ¿Qué es un algoritmo?
+1.2. Características de los algoritmos
+2. ¿Qué entendemos como programa?
+2.1 Dos paso para la construcción de un programa y su ciclo de vida
+2.2 Codificar un algoritmo
+
+Datos y variables
+1. Datos y más datos
+1.1 ¿Qué tipos de datos hay?
+2. Las variables
+2.1. ¿Cómo declarar una variable?
+2.2. ¿Cómo elegir el nombre de una variable?
+2.3. ¿Características y restricciones de las variables?
+2.4. ¿Qué es una constante?
+3. Resolución de problemas mediante la formulación de algoritmos
+4. Metodologías Top Down y Bottom Up
+4.1. Metodología Top Down
+4.2. Metodología Bottom Up
+4.3. Pseudocódigo
+5. Enunciado del código
+5.1. Paso de la solución
+¿Qué esperamos que aprendas?
+Definir el concepto de algoritmo.
+Describir las características de la programación en el marco de la computación.
+Identificar las variables y sus tipos.
+Resolver un problema a partir de la utilización de un algoritmo.
+Distinguir las metodologías Top Down y Botton Up de resolución de problemas.
+Describir las operaciones básicas con datos y variables.
+Clasificar los tipos de expresiones.
+Diferenciar expresiones aritméticas y lógicas.
+Identificar los elementos de las tablas de verdad.
+Interpretar una cadena de caracteres.
+Comprender el concepto de instrucción y dato.
+Comprender la diferencia entre dato y variable.
+¿Qué actividades te proponemos realizar esta semana?
+Leer el material de lectura:
+
+Algoritmos y programas
+Datos y variables
+Realizar las prácticas formativas:
+
+Resolver el cuestionario sobre conceptos.
+Realizar una tarea donde se exprese el desarrollo de un algoritmo en pseudocódigo. (SIN ENTREGA)
